@@ -1,0 +1,13 @@
+uk\co\argon\cdm\sports\Player.class
+uk\co\argon\cdm\sports\Attribute.class
+uk\co\argon\cdm\sports\Players.class
+uk\co\argon\cdm\sports\Attributes.class
+uk\co\argon\cdm\sports\Teams.class
+uk\co\argon\cdm\sports\SportTeam.class
+uk\co\argon\cdm\common\Response.class
+uk\co\argon\cdm\sports\Sports.class
+uk\co\argon\cdm\sports\SportTeams.class
+uk\co\argon\cdm\sports\Sport.class
+uk\co\argon\cdm\App.class
+uk\co\argon\cdm\sports\Team.class
+uk\co\argon\cdm\sports\Position.class
